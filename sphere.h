@@ -1,5 +1,7 @@
 /**********
-* Created by Isaac on 9/10/2021.
+* Author: Isaac Shepherd
+ * defines class structure for sphere
+ * only includes circle.h
 ***********/
 
 /************

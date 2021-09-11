@@ -1,5 +1,8 @@
 /************
-* Created by Isaac on 9/10/2021.
+* Author: Isaac Shepherd
+ * program to demonstrate using classes and objects in C++
+ * using proper header files for all cpp files
+ * only including main.h in main.cpp
 *************/
 
 /************

@@ -1,5 +1,6 @@
 /**********
-* Created by Isaac on 9/10/2021.
+* Author: Isaac Shepherd
+ * defines constructors and getters for established prototype for class Sphere
 ***********/
 
 /************

@@ -1,5 +1,6 @@
 /**********
-* Created by Isaac on 9/10/2021.
+* Author: Isaac Shepherd
+ * defines established prototypes for display functions
 ***********/
 
 /************

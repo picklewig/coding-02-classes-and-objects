@@ -1,5 +1,6 @@
 /**********
-* Created by Isaac on 9/10/2021.
+* Author: Isaac Shepherd
+ * defines constructors, getters, and setter established prototype for class Circle
 ***********/
 
 /************

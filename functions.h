@@ -1,5 +1,7 @@
 /**********
-* Created by Isaac on 9/10/2021.
+* Author: Isaac Shepherd
+ * sets up prototypes for display functions
+ * includes iostream and uses cout and endl objects
 ***********/
 
 #ifndef SPHERE_FUNCTIONS_H

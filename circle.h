@@ -1,5 +1,7 @@
 /**********
-* Created by Isaac on 9/10/2021.
+* Author: Isaac Shepherd
+ * sets up class structure for circle
+ * does not need to include anything
 ***********/
 
 #ifndef CLASSES_CIRCLE_H
